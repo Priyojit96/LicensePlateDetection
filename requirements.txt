@@ -1,0 +1,5 @@
+easyocr
+imutils
+cv2
+matplotlib
+numpy
